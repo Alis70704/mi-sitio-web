@@ -1,0 +1,20 @@
+/* Improved CSS code with explanations */
+
+/* Header styles */
+header {
+    animation-play-state: paused;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 64, 133, 0.48)), url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  /* Text with color gradient effect */
+  .letra-color {
+    background: linear-gradient(to right, rgb(255, 1, 162), rgb(45, 224, 255), rgb(32, 140, 255));
+    color: transparent; /* Fallback for browsers not supporting text-fill */
+    -webkit-text-fill-color: transparent; /* WebKit browsers */
+    -moz-text-fill-color: transparent; /* Firefox */
+    text-emphasis-color: transparent; /* Modern browsers */
+    background-clip: text;
+  }
+  
