@@ -1,0 +1,148 @@
+
+
+nav, header {
+    color: white;
+}
+
+#navbarNav a{
+    color:white;
+}
+
+.icono {
+    font-size: 3rem; 
+    color: white;
+    background-color: rgb(218, 50, 50);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.icono-contacto {
+    font-size: 2rem; 
+    color: black;
+    background-color: white;
+    /*        arriba derecha abajo izq 
+    padding: 0.5rem 1rem 0.5rem 1rem; */
+    padding: 0.8rem 1rem;
+    margin: 1rem;
+    border-radius: 75%;
+}
+
+#icono-footer{
+    font-size: 5rem; 
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.subtitulo-habilidades {
+    margin-top: 16px;
+}
+
+header {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    height: 100vh;
+
+    background-image: url('fondo.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Keep the image in place while scrolling */
+    filter: brightness(0.8); /* Adjust the brightness */
+}
+
+
+
+
+
+
+
+
+header {
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(253, 253, 253)), url("fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-position: center;
+}
+
+.letra-color {
+    background: linear-gradient(to right,rgb(254, 252, 255), rgb(255, 255, 255),rgb(255, 255, 255)); 
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.icono-gigante {
+    font-size: 7rem;
+    padding: 5px 10px;
+}
+
+.img-proyecto{
+    width: 100%;
+}
+
+.icono-contacto{
+    font-size: 3rem;
+    color: black;
+    margin: 4px 8px;
+
+}
+
+#contacto{
+    min-height: 80vh;
+}
+
+nav, header {
+    color: white;
+}
+
+#navbarNav a{
+    color:white;
+}
+
+.icono {
+    font-size: 3rem; 
+    color: #1e0d12;
+    background-color: cornflowerblue;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.icono-contacto {
+    font-size: 2rem; 
+    color: rgb(202, 59, 59);
+    background-color: white;
+    /*        arriba derecha abajo izq 
+    padding: 0.5rem 1rem 0.5rem 1rem; */
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    border-radius: 75%;
+}
+
+#icono-footer{
+    font-size: 5rem; 
+    color: rgb(233, 147, 147);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.subtitulo-habilidades {
+    margin-top: 16px;
+}
+
+header {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    height: 100vh;
+
+    background-image: url('fondo.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Keep the image in place while scrolling */
+    filter: brightness(0.8); /* Adjust the brightness */
+}
